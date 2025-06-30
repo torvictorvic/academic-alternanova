@@ -112,3 +112,4 @@ This project is distributed under the MIT license.
 ---
 
 For more details, contact the development team or check out the configuration and automated test files.
+
