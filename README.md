@@ -103,6 +103,22 @@ Includes:
 - Course endpoints, enrollment, GPA, history
 - Expected errors and responses by HTTP code
 
+
+---
+
+## Continuous Integration (CI)
+
+This project includes a GitHub Actions workflow that automatically runs tests on every push and pull request to ensure code quality and consistency.
+
+- Framework: **GitHub Actions**
+- Test runner: **pytest**
+- Coverage report: **terminal output**
+
+The workflow is defined in:
+
+```yaml
+.github/workflows/ci.yml
+
 ---
 
 ## License
